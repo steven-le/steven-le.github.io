@@ -1,0 +1,10 @@
+# Site settings
+name: Semi-Relevant
+title: Semi-Relevant
+email:
+description: The beginnings of some kind of blog?
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://semirelevant.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
