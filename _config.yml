@@ -1,8 +1,8 @@
 # Site settings
-name: Steven Le
-title: Semi-Relevant Thoughts
+name: 
+title: Semi-Relevant
 email:
-description: The beginnings of some kind of blog?
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://semirelevant.com" # the base hostname & protocol for your site
 
